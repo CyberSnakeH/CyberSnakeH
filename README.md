@@ -15,7 +15,7 @@ Passionate about mathematics and computer science.
 ```
 
 - 🐍 I build low-level system tools on Linux (and a bit of Windows when needed)
-- 🔬 Interests: reverse engineering, security, single-player game hacking, compilers
+- 🔬 Interests: maths, reverse engineering, security, single-player game hacking, compilers
 
 ---
 
@@ -42,7 +42,7 @@ Passionate about mathematics and computer science.
 
 **🪝 [SmileHook](https://github.com/CyberSnakeH/SmileHook)** — Function hooking library for runtime instrumentation and call interception.
 
-**👻 [Specter](https://github.com/CyberSnakeH/Specter)** — An injector.
+**👻 [Specter](https://github.com/CyberSnakeH/Specter)** — An injector for linux.
 
 ---
 
